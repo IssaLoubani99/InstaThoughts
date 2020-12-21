@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.khalil_abbas.thoughSaver.ThoughtSaver">
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="@string/about_menuItem"
+        app:showAsAction="never" />
+</menu>
